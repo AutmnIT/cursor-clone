@@ -6,7 +6,7 @@ A static HTML/CSS recreation of the **Cursor** AI code editor marketing site.
 
 ## 🔗 Live Demo
 
-
+https://cursor-clonee.netlify.app/
 ---
 
 ## 📸 Preview
